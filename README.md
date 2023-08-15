@@ -1,5 +1,5 @@
 <!--START_SECTION:badges-->
-[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png)](http://www.credly.com/badges/731373fc-b29b-4e74-886b-5067757ad13c "GitHub Advanced Security")
-[![GitHub Administration](https://images.credly.com/size/110x110/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](http://www.credly.com/badges/43de71a0-876c-464c-b39a-b11946796210 "GitHub Administration")
-[![GitHub Actions](https://images.credly.com/size/110x110/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png)](http://www.credly.com/badges/f1eab79f-35ba-4135-8850-39881d9accfe "GitHub Actions")
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png)](http://www.credly.com/badges/7c3d31a7-113b-48d2-8803-d5490b0e165c "GitHub Advanced Security")
+[![GitHub Administration](https://images.credly.com/size/110x110/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)](http://www.credly.com/badges/7c585bb1-401b-48bb-909f-85e4ff228917 "GitHub Administration")
+[![GitHub Actions](https://images.credly.com/size/110x110/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png)](http://www.credly.com/badges/f2545742-810e-421c-b9f5-f2dbe808bdad "GitHub Actions")
 <!--END_SECTION:badges-->
